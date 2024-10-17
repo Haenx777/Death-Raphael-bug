@@ -1,16 +1,16 @@
 **XERXES-MD-BUG MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
+  <a href="https://chat.whatsapp.com/BgP9bJB30tB40VuTSApFfK">
     <img alt=Support height="400" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> DEATH-RAPHAEL-BUG </h1>
+<h1 align="center"> xerxes-MD-BUG </h1>
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
- <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l" target="_blank">
+ <a href="https://chat.whatsapp.com/BgP9bJB30tB40VuTSApFfK" target="_blank">
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
  </a>   
 
