@@ -1,4 +1,4 @@
-**DEATH-RAPHAEL-BUG MULTI DEVICE WHATSAPP BOT**
+**XERXES-MD-BUG MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
@@ -18,7 +18,7 @@
 ### **ALERTE ⚠️**
 please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT DEATH-RAPHAEL-BUG**
+ ### ℹ️ **ABOUT XERXES-MD-BUG**
  Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
@@ -181,7 +181,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 
 ##
-- ***Star ⭐ My Repo If You Like  DEATH RAPHAEL-BUG.***
+- ***Star ⭐ My Repo If You Like  XERXES-MD-BUG.***
 
 ##
 
